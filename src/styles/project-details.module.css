@@ -1,0 +1,21 @@
+.details h2 {
+    font-size: 3.5em;
+    margin-top: 80px;
+    margin-bottom: 80px;
+  }
+  .details h3 {
+    font-size: 2em;
+    font-weight: 400;
+    margin-bottom: 40px;
+  }
+  .html {
+    margin-top: 40px;
+  }
+  .featured {
+    margin-bottom: 40px;
+  }
+
+  .details a:hover {
+    text-decoration: underline;
+    color: #006699;
+  }
